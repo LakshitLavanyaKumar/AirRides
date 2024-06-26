@@ -14,7 +14,7 @@ A Flight Booking MERN Based Web application.
 ## Steps to open app
 
 1. Clone the repository:
-```git clone ```
+```git clone https://github.com/LakshitLavanyaKumar/AirRides.git ```
 
 2. Change directory to frontend->client:
 ```cd frontend```
